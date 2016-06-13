@@ -1,7 +1,7 @@
 int min() {
- return 0;
+ return 10;
 }
 
 int max() {
- return 10;
+ return 0;
 }
